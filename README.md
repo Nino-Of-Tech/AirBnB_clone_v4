@@ -154,8 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors)  
-Nino Chibuzor Nwachukwu - [Github](https://github.com/Nino-Of-Tech) / [Twitter](https://twitter.com/Nino_Of_Tech)
-Cumi Oyemike - [Github](https://github.com/CtripleU) 
+*Nino Chibuzor Nwachukwu - [Github](https://github.com/Nino-Of-Tech) / [Twitter](https://twitter.com/Nino_Of_Tech)
+
+Cumi Oyemike - [Github](https://github.com/CtripleU)   
 
 Second part of Airbnb: Joann Vuong
 ## License
